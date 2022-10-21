@@ -112,6 +112,7 @@ predict(w1,w2,test)
 
 
  **OUTPUT** 
+ 
  ![image](https://user-images.githubusercontent.com/112486797/197100031-6253b875-eeb9-428e-9354-6c951f17f1c4.png)
  ![image](https://user-images.githubusercontent.com/112486797/197100143-c16276c5-a781-45e7-9575-d27ec5b1d2f4.png)
 
